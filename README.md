@@ -118,5 +118,3 @@ Eighteen behaviour-based rules, each tested against the hunt data. Three failed 
 ---
 ### Investigation Report
 [Investigation Report (PDF)](harborlight-hunt-report.pdf)
-
-*All names, hosts and credentials come from a fictional cyber range scenario that was sanitized by the hunt creator.*
