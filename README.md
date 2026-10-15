@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/harborlight-banner.png" width="100%" alt="Hunt 22 Harborlight banner"/>
+  <img src="harborlight-banner.png" width="100%" alt="Hunt 22 Harborlight banner"/>
 </p>
 
 ## Hunt 22 - Threat Hunt Brief
